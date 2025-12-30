@@ -56,7 +56,7 @@ Once you have pushed it, dark version of PDF will be available under [releases](
  *(Converted PDF Files will be in root folder of the project )
 
 ```python3
-    python run converter.py 
+    python converter.py 
 ```
 
 The script can be extended more such as integration of Telegram, Slack, Discord bots and more. 
